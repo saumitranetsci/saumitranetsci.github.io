@@ -5,7 +5,7 @@ title: Saumitra Kulkarni
 
 # Saumitra Kulkarni
 
-<img align="right"  width="225" height="225" src="images/netsi_photo.jpeg">
+<img align="right"  width="225" height="225" src="images/netsi_photo_1.jpeg">
 
 I am a PhD student at the [Network Science Institute](https://www.networkscienceinstitute.org/) (NetSI), Northeastern University in Boston. I am working within the [Social Urban Networks Lab](https://www.socialurban.net/), advised by [Prof. Esteban Moro](http://estebanmoro.org/) at NetSI.
 
