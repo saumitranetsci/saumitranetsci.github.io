@@ -7,11 +7,13 @@ title: Saumitra Kulkarni
 
 <img align="right"  width="225" height="225" src="images/netsi_photo_1.jpeg">
 
-I am a PhD student at the [Network Science Institute](https://www.networkscienceinstitute.org/) (NetSI), Northeastern University in Boston. I am working within the [Social Urban Networks Lab](https://www.socialurban.net/), advised by [Prof. Esteban Moro](http://estebanmoro.org/) at NetSI.
+Saumitra is a PhD student in the [Social Urban Networks Lab](https://www.socialurban.net/) (SUNLab) at Northeastern University’s [Network Science Institute](https://www.networkscienceinstitute.org/) (NetSI), working with [Prof. Esteban Moro](http://estebanmoro.org/). His research focuses on understanding human behavior in urban environments using large-scale smartphone behavioral data, leveraging tools from [computational social science](https://en.wikipedia.org/wiki/Computational_social_science) and [network science](https://en.wikipedia.org/wiki/Network_science) to inform better policy design in cities.
 
-I study human behavior in cities using behavioral data and tools from [computational social science](https://en.wikipedia.org/wiki/Computational_social_science) and [network science](https://en.wikipedia.org/wiki/Network_science). In the past, I have delved into various applications of complex networks, including models of dynamical processes on networks, computational biology, financial systems and culinary science. Check out my [publications](#Publications) below for more details.
+His past work spans a broad range of domains, with a consistent focus on network science. He has explored diverse applications—from dynamical processes on networks and computational biology to financial systems and even culinary science.
 
-Previously, I was a Lagrange Fellow at the [ISI Foundation](https://www.isi.it/) in Turin, Italy. I have held research positions at the [Institute of Mathematical Sciences](https://www.imsc.res.in/) in Chennai, and the [Department of Scientific Computing, Modeling and Simulation](https://scms.unipune.ac.in/) (SCMS) of [Savitribai Phule Pune University](http://www.unipune.ac.in/) (SPPU) in Pune, India. I received my Master's degree in Mathematical Modeling and Simulation from SCMS-SPPU.
+Prior to joining NetSI, Saumitra was a Lagrange Fellow at the [ISI Foundation](https://www.isi.it/) in Turin, Italy, where he worked in collaboration with [UNICEF Frontier Data Network](https://data.unicef.org/frontier-data-network/) on reducing bias in behavioral data for displacement monitoring in natural disaster response.
+
+He has also held research positions at the [Institute of Mathematical Sciences](https://www.imsc.res.in/) and the [Department of Scientific Computing, Modeling and Simulation](https://scms.unipune.ac.in/) (SCMS) at [Savitribai Phule Pune University](http://www.unipune.ac.in/) (SPPU) in India. He holds a Master’s degree in Mathematical Modeling and Simulation from SCMS-SPPU.
 
 <a name="Publications"></a>
 ## Publications
