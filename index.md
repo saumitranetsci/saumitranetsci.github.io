@@ -9,7 +9,7 @@ title: Saumitra Kulkarni
 
 Saumitra is a PhD student in the [Social Urban Networks Lab](https://www.socialurban.net/) (SUNLab) at Northeastern University’s [Network Science Institute](https://www.networkscienceinstitute.org/) (NetSI), working with [Prof. Esteban Moro](http://estebanmoro.org/). His research focuses on understanding human behavior in urban environments using large-scale smartphone behavioral data, leveraging tools from [computational social science](https://en.wikipedia.org/wiki/Computational_social_science) and [network science](https://en.wikipedia.org/wiki/Network_science) to inform better policy design in cities.
 
-His past work spans a broad range of domains, with a consistent focus on network science. He has explored diverse applications—from dynamical processes on networks and computational biology to financial systems and even culinary science.
+His past work spans a broad range of domains, with a consistent focus on network science. He has explored diverse applications, from modeling dynamical processes on networks and computational biology to financial systems and even culinary science.
 
 Prior to joining NetSI, Saumitra was a Lagrange Fellow at the [ISI Foundation](https://www.isi.it/) in Turin, Italy, where he worked in collaboration with [UNICEF Frontier Data Network](https://data.unicef.org/frontier-data-network/) on reducing bias in behavioral data for displacement monitoring in natural disaster response.
 
