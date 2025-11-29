@@ -18,9 +18,9 @@ He has also held research positions at the [Institute of Mathematical Sciences](
 <a name="Publications"></a>
 ## Publications
 
-- **The networks of ingredient combination in cuisines around the world.**\
+- **The networks of ingredient combinations as culinary fingerprints of world cuisines.**\
   Claudio Caprioli, _Saumitra Kulkarni_, Federico Battiston, Iacopo Iacopini, Andrea Santoro, Vito Latora\
-  arXiv preprint. [arXiv:2408.15162](https://arxiv.org/abs/2408.15162). 2024.
+   npj Science of Food 9(1), 242. [DOI:10.1038/s41538-025-00588-4](https://www.nature.com/articles/s41538-025-00588-4). 2025.
 
 - **Investigation of Indian stock markets using topological data analysis and geometry-inspired network measures.**\
   _Saumitra Kulkarni_, Hirdesh K Pharasi, Sudharsan Vijayaraghavan, Sunil Kumar, Anirban Chakraborti, Areejit Samal\
