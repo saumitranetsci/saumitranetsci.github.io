@@ -18,6 +18,10 @@ He has also held research positions at the [Institute of Mathematical Sciences](
 <a name="Publications"></a>
 ## Publications
 
+- **Characterising associations between mental distress, mobility, and COVID-19 restrictions: a US study**\
+  Stefania Fiandrino, _Saumitra Kulkarni_, Paolo Cornale, Sara Ghivarello, Piero Birello, Simone Maria Parazzoli, Federico Moss, Alessandro De Gaetano, Daniele Liberatore, Jacopo D'Ignazi, Kyriaki Kalimeri, Michele Tizzani, Mattia Mazzoli\
+   medRxiv preprint. [DOI:10.64898/2026.02.26.26347164](https://doi.org/10.64898/2026.02.26.26347164). 2026.
+
 - **The networks of ingredient combinations as culinary fingerprints of world cuisines.**\
   Claudio Caprioli, _Saumitra Kulkarni_, Federico Battiston, Iacopo Iacopini, Andrea Santoro, Vito Latora\
    npj Science of Food 9(1), 242. [DOI:10.1038/s41538-025-00588-4](https://www.nature.com/articles/s41538-025-00588-4). 2025.
