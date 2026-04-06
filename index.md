@@ -47,5 +47,5 @@ He has also held research positions at the [Institute of Mathematical Sciences](
 <a rel="me" href="https://mastodon.social/@SaumitraNetSci">Mastodon</a>
 
 <footer>
-    <p class="copyright" style="font-size: 12px">© 2025 Saumitra Kulkarni.</p>
+    <p class="copyright" style="font-size: 12px">© 2026 Saumitra Kulkarni.</p>
 </footer>
